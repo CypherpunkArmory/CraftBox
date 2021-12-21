@@ -1,4 +1,4 @@
-package tech.ula.foxbox
+package tech.ula.craftbox
 
 import android.content.Intent
 import android.net.Uri
@@ -6,7 +6,6 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import tech.ula.model.entities.App
 import java.io.File
-import java.net.URL
 
 class MainActivity : AppCompatActivity() {
 
