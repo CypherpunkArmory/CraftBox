@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_versions">
+        <item>1.18.1</item>
+        <item>1.18</item>
+        <item>1.17.1</item>
+        <item>1.17</item>
+    </string-array>
+
+    <string-array name="server_sha1s">
+        <item>125e5adf40c659fd3bce3e66e67a16bb49ecc1b9</item>
+        <item>3cf24a8694aca6267883b17d934efacc5e44440d</item>
+        <item>a16d67e5807f57fc4e550299cf20226194497dc2</item>
+        <item>0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e</item>
+    </string-array>
+
+    <string-array name="memory">
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+    </string-array>
+
+</resources>
